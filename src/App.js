@@ -6,7 +6,7 @@ import reportPdf from "./3_Report.pdf";
 function App() {
   const correctPassword = "btn710@G#";
   const [password, setPassword] = useState("");
-  const [isPasswordCorrect, setPasswordCorrect] = useState(true);
+  const [isPasswordCorrect, setPasswordCorrect] = useState(false);
   const [numPages, setNumPages] = useState(0);
 
   const checkPassword = () => {
