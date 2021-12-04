@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.d4a391ff.chunk.js",
+    "main.js.map": "/static/js/main.d4a391ff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef6486d9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef6486d9.js.map",
+    "static/js/2.0686e6ca.chunk.js": "/static/js/2.0686e6ca.chunk.js",
+    "static/js/2.0686e6ca.chunk.js.map": "/static/js/2.0686e6ca.chunk.js.map",
+    "static/js/3.0e31380c.chunk.js": "/static/js/3.0e31380c.chunk.js",
+    "static/js/3.0e31380c.chunk.js.map": "/static/js/3.0e31380c.chunk.js.map",
+    "6edf22c7883da78820dcc980006a58e6.js": "/6edf22c7883da78820dcc980006a58e6.js",
+    "6edf22c7883da78820dcc980006a58e6.js.LICENSE.txt": "/6edf22c7883da78820dcc980006a58e6.js.LICENSE.txt",
+    "index.html": "/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0686e6ca.chunk.js.LICENSE.txt": "/static/js/2.0686e6ca.chunk.js.LICENSE.txt",
+    "static/media/3_Report.b56eca6e.pdf": "/static/media/3_Report.b56eca6e.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef6486d9.js",
+    "static/js/2.0686e6ca.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d4a391ff.chunk.js"
+  ]
+}
