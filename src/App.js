@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       {isPasswordCorrect ? (
         <div style={{ width: "100%", margin: "0 auto" }}>
-          <a href="https://web.microsoftstream.com/video/dd53362c-0f5b-4fc8-b92d-4dfb6a2b884c">Link to video</a>
+          <a style={{paddingTop: '10vh'}} href="https://web.microsoftstream.com/video/dd53362c-0f5b-4fc8-b92d-4dfb6a2b884c">Link to video</a>
             <Document
               file={reportPdf}
               onLoadSuccess={onLoadSuccess}
